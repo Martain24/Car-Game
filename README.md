@@ -26,13 +26,6 @@ These are the objectives of this project:
 - If the user types a command that is not listed above, 
 the game must display: "Invalid command. Please try again."
 
-
-## How I solved the project
-
-¡Entendido! Aquí tienes una versión más concisa de cómo resolviste el proyecto, con bloques de código de no más de 4 líneas, sin pegar todo el código del repositorio:
-
----
-
 ## How I solved the project
 
 To solve the Car Game project, I followed a step-by-step approach. Here’s how I broke down the solution:
