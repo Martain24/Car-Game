@@ -83,5 +83,19 @@ case "exit" -> {
 I ensured the program handles edge cases, such as when the car is already in the desired state, and when an invalid command is entered.
 
 
+## What I learned
+
+Throughout this project, I learned several important concepts and techniques in Java:
+
+- **Handling `while` loops**: I used a `while` loop to keep the game running until the user chooses to exit, allowing the program to repeatedly ask for input.
+  
+- **User input with `Scanner`**: I learned how to handle user input using the `Scanner` class, capturing commands and processing them accordingly.
+
+- **Using classes with getters and setters**: I created the `Car` class with private attributes, using getters and setters to provide controlled access to the car's properties. This approach improves functionality by allowing changes to be made more easily and ensuring better encapsulation.
+
+- **Encapsulation with private attributes**: By making class attributes private and using getter and setter methods, I ensured that the car’s internal state could be controlled, preventing unauthorized access and modification.
+
+- **Modularizing the code**: I learned to break down the code into smaller, manageable pieces (methods like `run()`, `stop()`, and `showCarGameRules()`), making the code more organized and easier to maintain.
+
 
 
