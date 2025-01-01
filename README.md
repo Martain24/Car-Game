@@ -1,5 +1,15 @@
 # Car Game
 
+## Table of Contents
+1. [Description](#description)
+2. [How I solved the project](#how-i-solved-the-project)
+   - [Creating the `Car` class](#creating-the-car-class)
+   - [Handling user input](#handling-user-input)
+   - [Game rules display](#game-rules-display)
+   - [Handling exit](#handling-exit)
+   - [Edge cases and validation](#edge-cases-and-validation)
+3. [What I learned](#what-i-learned)
+
 ## Description
 
 The Car Game is a really simple project for Java beginners. 
